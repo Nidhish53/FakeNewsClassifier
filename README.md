@@ -1,1 +1,1 @@
-# News_Detector
+# News_Sentimental_Analysis
